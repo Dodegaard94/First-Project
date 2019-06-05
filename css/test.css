@@ -1,0 +1,28 @@
+h1{
+			color: orange;
+			font-size: 90px;
+			text-decoration: underline;
+		}
+
+		#first{
+			font-size: 75px;
+			color: blue;
+		}
+
+		h2{
+			color: pink;
+			font-size: 30px;
+		}
+
+		.small{
+			color: black;
+			font-size: 20px;
+		}
+
+		span{font-style: italic;
+		}
+
+		h2 span{
+			text-decoration: line-through;
+
+		}
